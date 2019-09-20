@@ -1,4 +1,4 @@
-3rd-Year-IOT-project
+3rd-Year-IOT-project on Eye Detection and Recognition System
 
 ----	Introduction
 
